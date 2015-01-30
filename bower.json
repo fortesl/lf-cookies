@@ -1,0 +1,19 @@
+{
+  "name": "lf-cookies",
+  "main": "lf-cookies.js",
+  "version": "0.0.0",
+  "authors": [
+    "Luis Fortes"
+  ],
+  "description": "An angular module for setting and retrieving browser cookies",
+  "keywords": [
+    "angularjs",
+    "cookies",
+    "javascript",
+    "browser",
+    "web",
+    "development"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/fortesl/lf-cookies.git"
+}
